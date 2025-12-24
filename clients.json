@@ -1,0 +1,42 @@
+[
+    {
+        "id_client": 1,
+        "nom": "osman",
+        "prenom": "djazia",
+        "adresse": "oran",
+        "telephone": "0585685914",
+        "email": "osmane@gmail.com"
+    },
+    {
+        "id_client": 2,
+        "nom": "cherfaoui",
+        "prenom": "samira",
+        "adresse": "Adresse...",
+        "telephone": "0569874123",
+        "email": "cherfaoui@gmail.com"
+    },
+    {
+        "id_client": 3,
+        "nom": "khoudja",
+        "prenom": "yousra",
+        "adresse": "Adresse...",
+        "telephone": "0254789632",
+        "email": "khoudja@gmail.com"
+    },
+    {
+        "id_client": 4,
+        "nom": "guerrar",
+        "prenom": "ilyes",
+        "adresse": "Adresse...",
+        "telephone": "0258963147",
+        "email": "guerrar@gmail.com"
+    },
+    {
+        "id_client": 5,
+        "nom": "cherfaoui",
+        "prenom": "cherfaoui",
+        "adresse": "oran",
+        "telephone": "0258963144",
+        "email": "cherfaoui@gmail.com"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id_produit": 1,
+        "nom": "iphone 16",
+        "description": "rose 128gb ",
+        "prix": 100000.0,
+        "categorie": "smartphone",
+        "quantite_stock": 0
+    },
+    {
+        "id_produit": 3,
+        "nom": "airpods",
+        "description": "blanc",
+        "prix": 5000.0,
+        "categorie": "accessoire",
+        "quantite_stock": 0
+    }
+]
